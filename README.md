@@ -6,7 +6,7 @@ Student at the Federal University of Piauí!
 
 Information Systems! 💻⚡
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-felipe-b20b521a0/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-b20b521a0)
 
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizfelipenog&show_icons=true&theme=dark)
 
