@@ -25,7 +25,7 @@ Information Systems! 💻⚡
 
 
 
- • Business Enthusiast ✌🏽<br>
+ • Business ✌🏽<br>
  • Avanti Palestra 🟢⚪<br>
 
  
