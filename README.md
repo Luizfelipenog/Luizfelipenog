@@ -2,7 +2,7 @@
 
 
 
-Student at the Federal University of Piauí!
+Student 
 
 Information Systems! 💻⚡
 
